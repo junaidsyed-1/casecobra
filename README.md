@@ -6,7 +6,9 @@ This is a complete E-commerce website.
 
 # Libraries
 
-- Shadcn
+- Shadcn (UI)
+- Lucide (icons)
+- Kinde (auth)
 
 # Stack
 
