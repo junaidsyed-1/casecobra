@@ -1,6 +1,8 @@
+/* eslint-disable react/no-unescaped-entities */
 import CustomPhone from "@/components/CustomPhone";
 import { Icons } from "@/components/Icons";
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
+import Reviews from "@/components/Reviews";
 import { Check, Star } from "lucide-react";
 import Image from "next/image";
 
@@ -221,6 +223,9 @@ export default function Home() {
             </div>
           </div>
         </MaxWidthWrapper>
+        <div className="pt-16">
+          <Reviews />
+        </div>
       </section>
     </div>
   );

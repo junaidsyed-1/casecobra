@@ -9,6 +9,7 @@ This is a complete E-commerce website.
 - Shadcn (UI)
 - Lucide (icons)
 - Kinde (auth)
+- Framer Motion (Animation)
 
 # Stack
 
