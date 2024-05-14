@@ -91,7 +91,6 @@ function Review({ imgSrc, className, ...props }: ReviewProps) {
     POSSIBLE_ANIMATIONS_DELAY[
       Math.floor(Math.random() * POSSIBLE_ANIMATIONS_DELAY.length)
     ];
-
   return (
     <div
       className={cn(
